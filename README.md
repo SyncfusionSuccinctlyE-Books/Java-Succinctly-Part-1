@@ -1,1 +1,1 @@
-Code samples for the book Java Succinctly Part 1 by Chris Rose, available at [Syncfusion.com](https://www.syncfusion.com/resources/techportal/ebooks).
+Code samples for the book _Java Succinctly Part 1_ by Chris Rose, available at [Syncfusion.com](https://www.syncfusion.com/resources/techportal/ebooks).
