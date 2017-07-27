@@ -1,0 +1,7 @@
+; Assembly Language: Low Level Language
+mov rax, a ; Read the value of a
+add rax, b ; Add the value of b to a
+mov a, rax ; Write the result to a
+
+// Java: High Level Language
+a = a + b;
